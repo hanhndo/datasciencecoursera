@@ -1,15 +1,2 @@
----
-title: "Hello World"
-author: "Hanh Do"
-date: "March 10, 2019"
-output: html_document
-editor_options: 
-  chunk_output_type: console
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## This is a markdown file
 
